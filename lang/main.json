@@ -13,7 +13,7 @@
         "footerText": "Dialing out is disabled.",
         "googleEmail": "Google Email",
         "inviteMoreHeader": "You are the only one in the meeting",
-        "inviteMoreMailSubject": "Join {{appName}} meeting",
+        "inviteMoreMailSubject": "Join meeting",
         "inviteMorePrompt": "Invite more people",
         "linkCopied": "Link copied to clipboard",
         "loading": "Searching for people and phone numbers",
@@ -44,7 +44,7 @@
     },
     "calendarSync": {
         "addMeetingURL": "Add a meeting link",
-        "confirmAddLink": "Do you want to add a Jitsi link to this event?",
+        "confirmAddLink": "Do you want to add a Meet link to this event?",
         "error": {
             "appConfiguration": "Calendar integration is not properly configured.",
             "generic": "An error has occurred. Please check your calendar settings or try refreshing the calendar.",
@@ -297,7 +297,7 @@
         "stopStreamingWarning": "Are you sure you would like to stop the live streaming?",
         "streamKey": "Live stream key",
         "Submit": "Submit",
-        "thankYou": "Thank you for using {{appName}}!",
+        "thankYou": "Thank you for using Meet!",
         "token": "token",
         "tokenAuthFailed": "Sorry, you're not allowed to join this call.",
         "tokenAuthFailedTitle": "Authentication failed",
@@ -335,7 +335,7 @@
         "answer": "Answer",
         "audioCallTitle": "Incoming call",
         "decline": "Dismiss",
-        "productLabel": "from Jitsi Meet",
+        "productLabel": "from Meet",
         "videoCallTitle": "Incoming video call"
     },
     "info": {
@@ -489,14 +489,14 @@
         "somebody": "Somebody",
         "startSilentTitle": "You joined with no audio output!",
         "startSilentDescription": "Rejoin the meeting to enable audio",
-        "suboptimalBrowserWarning": "We are afraid your meeting experience isn't going to be that great here. We are looking for ways to improve this, but until then please try using one of the <a href='{{recommendedBrowserPageLink}}' target='_blank'>fully supported browsers</a>.",
+        "suboptimalBrowserWarning": "We are afraid your meeting experience isn't going to be that great here. We are looking for ways to improve this, but until then please try using one of the <a href='{{recommendedBrowserPageLink}}' target='_blank'> supported browsers</a>.",
         "suboptimalExperienceTitle": "Browser Warning",
         "unmute": "Unmute",
         "newDeviceCameraTitle": "New camera detected",
         "newDeviceAudioTitle": "New audio device detected",
         "newDeviceAction": "Use",
         "OldElectronAPPTitle": "Security vulnerability!",
-        "oldElectronClientDescription1": "You appear to be using an old version of the Jitsi Meet client which has known security vulnerabilities. Please make sure you update to our ",
+        "oldElectronClientDescription1": "You appear to be using an old version of the Meet client which has known security vulnerabilities. Please make sure you update to our ",
         "oldElectronClientDescription2": "latest build",
         "oldElectronClientDescription3": " now!"
     },
@@ -621,7 +621,7 @@
     },
     "settings": {
         "calendar": {
-            "about": "The {{appName}} calendar integration is used to securely access your calendar so it can read upcoming events.",
+            "about": "The Meet calendar integration is used to securely access your calendar so it can read upcoming events.",
             "disconnect": "Disconnect",
             "microsoftSignIn": "Sign in with Microsoft",
             "signedIn": "Currently accessing calendar events for {{email}}. Click the Disconnect button below to stop accessing calendar events.",
@@ -864,7 +864,7 @@
             "join": "Tap to join",
             "roomname": "Enter room name"
         },
-        "appDescription": "Go ahead, video chat with the whole team. In fact, invite everyone you know. {{app}} is a fully encrypted, 100% open source video conferencing solution that you can use all day, every day, for free — with no account needed.",
+        "appDescription": "{{app}} is a fully encrypted, secure video conferencing solution provided by Zimbra Cloud.",
         "audioVideoSwitch": {
             "audio": "Voice",
             "video": "Video"
@@ -889,7 +889,7 @@
         "roomnameHint": "Enter the name or URL of the room you want to join. You may make a name up, just let the people you are meeting know it so that they enter the same name.",
         "sendFeedback": "Send feedback",
         "terms": "Terms",
-        "title": "Secure, fully featured, and completely free video conferencing"
+        "title": "Meet - Free Beta"
     },
     "lonelyMeetingExperience": {
         "button": "Invite others",

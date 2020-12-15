@@ -1,5 +1,5 @@
-jitsi-meet-web (1.0.1-1) unstable; urgency=low
+jitsi-meet-web (2.0.5142-1) unstable; urgency=low
 
-  * Initial release. (Closes: #760485)
+  * zm-jitsi
 
- -- Damian Minkov <damencho@jitsi.org>  Wed, 22 Oct 2014 10:30:00 +0200
+ -- Ubuntu <ubuntu@askalski-jitsi-build>  Fri, 11 Dec 2020 10:30:00 +0200

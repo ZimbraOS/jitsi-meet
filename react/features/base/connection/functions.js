@@ -139,5 +139,5 @@ export function getURLWithoutParamsNormalized(url: URL): string {
  * {@code user@server.com}).
  */
 export function toJid(id: string, { authdomain, domain }: Object): string {
-    return id.indexOf('@') >= 0 ? id : `${id}@${authdomain || domain}`;
+    return `${id.split('@').join('.at.')}@${authdomain || domain}`;
 }
